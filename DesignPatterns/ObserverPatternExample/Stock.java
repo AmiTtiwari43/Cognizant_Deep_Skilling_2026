@@ -1,5 +1,3 @@
-package DesignPatterns.ObserverPatternExample;
-
 public interface Stock {
 
     void registerObserver(StockObserver observer);

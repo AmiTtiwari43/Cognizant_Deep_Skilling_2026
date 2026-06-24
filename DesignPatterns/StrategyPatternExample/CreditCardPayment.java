@@ -1,5 +1,3 @@
-package DesignPatterns.StrategyPatternExample;
-
 public class CreditCardPayment implements PaymentStrategy {
 
     @Override

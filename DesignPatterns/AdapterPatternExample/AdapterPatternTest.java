@@ -1,5 +1,3 @@
-package DesignPatterns.AdapterPatternExample;
-
 public class AdapterPatternTest {
 
     public static void main(String[] args) {

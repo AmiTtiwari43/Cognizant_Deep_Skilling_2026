@@ -1,5 +1,3 @@
-package DesignPatterns.BuilderPatternExample;
-
 public class Computer {
 
     private String cpu;

@@ -1,5 +1,3 @@
-package DesignPatterns.DecoratorPatternExample;
-
 public class SMSNotifierDecorator extends NotifierDecorator {
 
     public SMSNotifierDecorator(Notifier notifier) {

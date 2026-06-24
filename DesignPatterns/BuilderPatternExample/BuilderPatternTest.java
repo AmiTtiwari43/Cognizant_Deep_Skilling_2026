@@ -1,5 +1,3 @@
-package DesignPatterns.BuilderPatternExample;
-
 public class BuilderPatternTest {
     public static void main(String[] args) {
 

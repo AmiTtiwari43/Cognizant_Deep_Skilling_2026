@@ -1,5 +1,3 @@
-package DesignPatterns.FactoryMethodPatternExample;
-
 public class WordFactory extends DocumentFactory {
 
     @Override

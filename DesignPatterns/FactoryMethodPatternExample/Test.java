@@ -1,5 +1,3 @@
-package DesignPatterns.FactoryMethodPatternExample;
-
 public class Test {
     public static void main(String[] args) {
 

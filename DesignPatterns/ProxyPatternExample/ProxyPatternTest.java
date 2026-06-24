@@ -1,5 +1,3 @@
-package DesignPatterns.ProxyPatternExample;
-
 public class ProxyPatternTest {
 
     public static void main(String[] args) {

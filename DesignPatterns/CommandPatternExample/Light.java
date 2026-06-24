@@ -1,5 +1,3 @@
-package DesignPatterns.CommandPatternExample;
-
 public class Light {
 
     public void turnOn() {

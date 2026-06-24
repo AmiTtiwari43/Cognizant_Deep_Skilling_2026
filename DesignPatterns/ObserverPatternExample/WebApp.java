@@ -1,5 +1,3 @@
-package DesignPatterns.ObserverPatternExample;
-
 public class WebApp
         implements StockObserver {
 

@@ -1,5 +1,3 @@
-package DesignPatterns.DecoratorPatternExample;
-
 public class SlackNotifierDecorator
         extends NotifierDecorator {
 

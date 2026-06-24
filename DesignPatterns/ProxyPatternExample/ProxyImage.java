@@ -1,5 +1,3 @@
-package DesignPatterns.ProxyPatternExample;
-
 public class ProxyImage implements Image{
 
     private RealImage realImage;

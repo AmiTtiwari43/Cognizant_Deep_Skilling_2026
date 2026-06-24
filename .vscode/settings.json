@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "DesignPatterns/AdapterPatternExample",
+        "DesignPatterns/BuilderPatternExample",
+        "DesignPatterns/CommandPatternExample",
+        "DesignPatterns/DecoratorPatternExample",
+        "DesignPatterns/FactoryMethodPatternExample",
+        "DesignPatterns/ObserverPatternExample",
+        "DesignPatterns/ProxyPatternExample",
+        "DesignPatterns/SingletonPatternExample",
+        "DesignPatterns/StrategyPatternExample",
+        "DesignPatterns/MVCPatternExample"
+    ]
+}

@@ -1,3 +1,5 @@
+package DesignPatterns.FactoryMethodPatternExample;
+
 public class WordDocument implements Document {
 
     @Override

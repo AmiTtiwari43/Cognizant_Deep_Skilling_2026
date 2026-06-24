@@ -1,3 +1,5 @@
+package DesignPatterns.StrategyPatternExample;
+
 public class StrategyPatternTest {
     public static void main(String[] args) {
         PaymentStrategy creditCardPayment = new CreditCardPayment();

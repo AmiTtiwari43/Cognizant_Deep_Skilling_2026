@@ -1,3 +1,5 @@
+package DesignPatterns.ObserverPatternExample;
+
 public class ObserverPatternTest {
 
     public static void main(String[] args) {

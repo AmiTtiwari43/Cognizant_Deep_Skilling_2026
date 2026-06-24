@@ -1,3 +1,5 @@
+package DesignPatterns.StrategyPatternExample;
+
 public class PaymentContext {
 
     private PaymentStrategy paymentStrategy;

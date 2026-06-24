@@ -1,3 +1,5 @@
+package DesignPatterns.ObserverPatternExample;
+
 public class MobileApp implements StockObserver{
 
     @Override

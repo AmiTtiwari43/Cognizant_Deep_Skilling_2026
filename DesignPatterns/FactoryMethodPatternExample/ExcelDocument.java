@@ -1,3 +1,5 @@
+package DesignPatterns.FactoryMethodPatternExample;
+
 public class ExcelDocument implements Document {
 
     @Override

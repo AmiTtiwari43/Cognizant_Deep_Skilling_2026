@@ -1,3 +1,5 @@
+package DesignPatterns.AdapterPatternExample;
+
 public class PaytmAdapter implements PaymentProcessor {
 
     private PaytmGateway paytm;

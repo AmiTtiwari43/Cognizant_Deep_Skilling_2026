@@ -1,3 +1,5 @@
+package DesignPatterns.AdapterPatternExample;
+
 public class RazorpayAdapter implements PaymentProcessor {
 
     private RazorpayGateway razorpay;

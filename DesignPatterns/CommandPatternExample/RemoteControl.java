@@ -1,3 +1,5 @@
+package DesignPatterns.CommandPatternExample;
+
 public class RemoteControl {
 
     private Command command;

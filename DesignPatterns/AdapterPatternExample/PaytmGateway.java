@@ -1,3 +1,5 @@
+package DesignPatterns.AdapterPatternExample;
+
 public class PaytmGateway {
 
     public void makePayment(double amount) {

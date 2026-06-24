@@ -1,3 +1,5 @@
+package DesignPatterns.AdapterPatternExample;
+
 public class RazorpayGateway {
 
     public void makePayment(double amount) {

@@ -9,6 +9,7 @@
         "DesignPatterns/ProxyPatternExample",
         "DesignPatterns/SingletonPatternExample",
         "DesignPatterns/StrategyPatternExample",
-        "DesignPatterns/MVCPatternExample"
+        "DesignPatterns/MVCPatternExample",
+        "DesignPatterns/FactoryPatternExample"
     ]
 }

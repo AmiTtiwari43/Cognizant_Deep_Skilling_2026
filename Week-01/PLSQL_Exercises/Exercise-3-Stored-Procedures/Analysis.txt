@@ -1,0 +1,18 @@
+Exercise 3: Stored Procedures
+
+Scenario 1:
+Created a stored procedure ProcessMonthlyInterest to apply 1% interest to all savings accounts.
+
+Scenario 2:
+Created a parameterized stored procedure UpdateEmployeeBonus to increase employee salaries based on department and bonus percentage.
+Scenario 3:
+Created a stored procedure TransferFunds to transfer money between accounts after checking sufficient balance.
+
+Concepts Used:
+1. Stored Procedures
+2. Parameters
+3. Variables
+4. IF Conditions
+5. UPDATE Statements
+6. COMMIT
+7. DBMS_OUTPUT.PUT_LINE

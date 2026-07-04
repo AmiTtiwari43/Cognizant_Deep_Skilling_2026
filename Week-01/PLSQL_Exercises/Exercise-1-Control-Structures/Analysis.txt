@@ -1,0 +1,12 @@
+Exercise 1: Control Structures
+Scenario 1:
+Used IF condition and FOR LOOP to identify customers above 60 years and reduce loan interest rate by 1%.
+Scenario 2:
+Used IF condition and FOR LOOP to identify customers with balance greater than 10000 and mark them as VIP.
+Scenario 3:
+Used CURSOR and FOR LOOP to fetch loans due within 30 days and print reminder messages.
+PL/SQL Control Structures Used:
+1. IF Statement
+2. FOR LOOP
+3. CURSOR
+4. DBMS_OUTPUT.PUT_LINE
